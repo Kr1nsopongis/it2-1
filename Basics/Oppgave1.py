@@ -9,3 +9,6 @@ if alder > 1000:
     alder = 2023 - alder
 
 print("Hei " + fornavn + ", du er " + str(alder) + " år gammel.")
+
+
+skjasdlhasøjh
